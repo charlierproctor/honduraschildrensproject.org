@@ -143,7 +143,7 @@ mail($to,$subject,$emailBody,$headers);
 Honduras Children's Project is a non-profit organization dedicated to improving the education for the children of Copprome Orphanage in El Progreso, Honduras by providing them with an educational after-school program and by supporting the public elementary school they attend.
 </p>
     <p class="lead text-center"> 
-Honduras Children’s Project has hired a teacher and two teaching assistants to work with the children in the after-school program. We are paying for Oscar Sanchez, a Copprome graduate, to attend university and return to teach the children. We have brought school supplies, uniforms, and three laptop-computers to the orphanage, in addition to providing for the special-education assistance of 14 children. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies.
+Honduras Children’s Project has hired a teacher and two teaching assistants to work with the children in the after-school program. We are paying for Oscar Sanchez, a Copprome graduate, to attend university and return to teach the children. We have brought school supplies, uniforms, and three laptop-computers to the orphanage, in addition to providing for the special-education assistance of 14 children. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome at least twice a year.
 </p>
     <p class="lead text-center"> 
 Through several fundraising projects, we raise over $25,000 each year. We host Spaghetti and Chicken Dinners, sell chocolate-covered bacon at the Durham Fair, host an annual Golf Tournament (Swing for Honduras), and sell our “trashy products” and other hand-made Honduran products at local craft fairs and bazaars.    
@@ -184,8 +184,10 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
      <hr>
      
      <h3>School Supplies</h3>
+     Honduras Children's Project
      <ul>
-     <li>Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies.</li>
+     <li>has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies.</li>
+     <li>is helping pay for the children's English instruction.</li>
      </ul>
      
      <hr>
@@ -216,8 +218,24 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <h1>Upcoming Events</h1>
        
     <hr>    
-    <h3>David and Deborah Proctor Visit Honduras</h3>
-    <p class="lead">June 17-July 1, 2014<br>
+    <h3>East Rock Festival</h3>
+    <p class="lead"><em>Saturday, September 13, 2014 --- 11am-6pm</em><br>
+    We'll be selling handmade Honduran products, including our Trashy Products.
+    </p>
+    <hr>
+    <h3>Durham Fair</h3>
+    <p class="lead"><em>September 25-28, 2014</em><br>
+    For the fourth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
+    </p>
+    <hr>
+    <h3>Third Annual Swing for Honduras Golf Tournament</h3>
+    <p class="lead"><em>Sunday, October 19, 2014 --- 12pm</em><br>
+    <em>Indian Springs Golf Course, Middlefield, CT</em><br>
+    A fun golf tournament for all ages and abilities.
+    </p>
+    <hr>
+    <p class="lead">
+    Interested in helping? Your support is what makes these events possible. <a href="#connect">Please contact us!</a>
     </p>
     <hr>
       <div class="divider"></div>
