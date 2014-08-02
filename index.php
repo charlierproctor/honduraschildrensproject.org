@@ -229,7 +229,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
     </p>
     <hr>
     <h3>Third Annual Swing for Honduras Golf Tournament</h3>
-    <p class="lead"><em>Sunday, October 19, 2014 --- 12pm</em><br>
+    <p class="lead"><em>Sunday, October 19, 2014 --- 1pm</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
