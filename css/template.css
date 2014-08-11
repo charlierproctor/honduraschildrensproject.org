@@ -58,7 +58,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 #myCarousel  .item {
-  height: 600px;
+  height: 80vh;
   background-color:#bbb;
 }
 #myCarousel img {
@@ -99,8 +99,12 @@ h1 {
   font-size:50px;
 }
 
+h2 {
+  font-size: 4vmin;
+}
+
 .logo {
-  font-size:64px;
+  font-size:6vmin;
   font-weight:bold;
   font-style:oblique;
   position:absolute;
