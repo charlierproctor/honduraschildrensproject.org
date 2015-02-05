@@ -308,9 +308,22 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Jared Cooper-Vespa, Adviser"><img src="pics/team/jared.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg" class="img-responsive"></a></div>
           <div class="panel-body">
-            <p>Jared Cooper-Vespa, Adviser</p>
+            <p>Tristan Jamidar</p>
+            <p>Member, Board of Directors</p>
+            
+          </div>
+        </div><!--/panel--> 
+
+      </div><!--/col--> 
+
+      <div class="col-sm-4 col-xs-6">
+      
+        <div class="panel panel-default">
+          <div class="panel-thumbnail"><a href="#" title="Marye Wagner"><img src="pics/team/marye.jpg" class="img-responsive"></a></div>
+          <div class="panel-body">
+            <p>Marye Wagner</p>
             <p>Member, Board of Directors</p>
             
           </div>
@@ -318,6 +331,19 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
 
       </div><!--/col--> 
       
+        <div class="col-sm-4 col-xs-6">
+      
+        <div class="panel panel-default">
+          <div class="panel-thumbnail"><a href="#" title="Julia Bishop-Hahlo"><img src="pics/team/julia.jpg" class="img-responsive"></a></div>
+          <div class="panel-body">
+            <p>Julia Bishop-Hahlo</p>
+            <p>Member, Board of Directors</p>
+            
+          </div>
+        </div><!--/panel--> 
+
+      </div><!--/col--> 
+
 	</div><!--/row-->
   </div><!--/container-->
 </div>
