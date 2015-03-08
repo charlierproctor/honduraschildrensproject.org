@@ -43,13 +43,6 @@ mail($to,$subject,$emailBody,$headers);
   	<!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-      </ol>
       
       <div class="carousel-inner">
         <div class="item active">
@@ -108,6 +101,7 @@ mail($to,$subject,$emailBody,$headers);
   
   
 <!-- Fixed navbar -->
+<div class="wrapper">
 <div class="navbar navbar-custom navbar-inverse navbar-static-top" id="nav">
     <div class="container">
       <div class="navbar-header">
@@ -440,7 +434,7 @@ All funds raised support our work in Honduras -- we are dedicated to improving t
       
   	</div><!--/col-->
 </div><!--/container-->
-  
+</div><!-- /wrapper -->
 </div><!--/wrap-->
 
 <div id="footer">
