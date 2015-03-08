@@ -259,7 +259,6 @@ section {
   	background-size: cover;
 }
 
-.panel .img-responsive {
-	min-height:270px;
-    max-height:270px;
+.panel img {
+  width: 100%;
 }

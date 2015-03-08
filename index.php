@@ -258,7 +258,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
 	   <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="David Proctor, President"><img src="pics/team/david.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="David Proctor, President"><img src="pics/team/david.jpg"></a></div>
           <div class="panel-body">
             <p>David Proctor, President</p>
             <p>Member, Board of Directors</p>
@@ -269,7 +269,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Matt Erodici, Vice President"><img src="pics/team/matt.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Matt Erodici, Vice President"><img src="pics/team/matt.jpg"></a></div>
           <div class="panel-body">
             <p>Matt Erodici, Vice President</p>
             <p>Member, Board of Directors</p>
@@ -281,7 +281,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Charlie Proctor, Founder"><img src="pics/team/charlie.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Charlie Proctor, Founder"><img src="pics/team/charlie.jpg"></a></div>
           <div class="panel-body">
             <p>Charlie Proctor, Founder &amp Senior Consultant</p>
             <p>Member, Board of Directors</p>
@@ -294,7 +294,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Deborah D. Proctor, Treasurer"><img src="pics/team/deb.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Deborah D. Proctor, Treasurer"><img src="pics/team/deb.jpg"></a></div>
           <div class="panel-body">
             <p>Deborah D. Proctor, Treasurer</p>
             <p>Member, Board of Directors</p>
@@ -307,7 +307,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg"></a></div>
           <div class="panel-body">
             <p>Tristan Jamidar</p>
             <p>Member, Board of Directors</p>
@@ -320,7 +320,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Marye Wagner"><img src="pics/team/marye.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Marye Wagner"><img src="pics/team/marye.jpg"></a></div>
           <div class="panel-body">
             <p>Marye Wagner</p>
             <p>Member, Board of Directors</p>
@@ -333,7 +333,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
         <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Julia Bishop-Hahlo"><img src="pics/team/julia.jpg" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Julia Bishop-Hahlo"><img src="pics/team/julia.jpg"></a></div>
           <div class="panel-body">
             <p>Julia Bishop-Hahlo</p>
             <p>Member, Board of Directors</p>
@@ -530,7 +530,7 @@ $('#nav .navbar-nav li>a').click(function(){
 
 
 /* copy loaded thumbnails into carousel */
-$('.panel .img-responsive').on('load', function() {
+$('.panel img').on('load', function() {
   
 }).each(function(i) {
   if(this.complete) {
