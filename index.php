@@ -28,7 +28,7 @@ mail($to,$subject,$emailBody,$headers);
         <title>Honduras Children's Project</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link href="css/bootstrap.min.css" rel="stylesheet">
-  		 <link href="css/template.css" rel="stylesheet">      
+  		 <link href="css/style.css" rel="stylesheet">      
         <!--[if lt IE 9]>
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
