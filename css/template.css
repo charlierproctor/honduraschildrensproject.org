@@ -57,7 +57,7 @@ body {
 #myCarousel img {
   min-height: 100%;
   min-width: 1024px;
-  
+
   width: 100%;
   height: auto;
 }
@@ -96,22 +96,22 @@ h1 {
 h2 {
   font-size: 4vmin;
 }
-
+.logo-wrapper {
+  position:absolute;
+  top: 50px;
+  left:50%;
+}
 .logo {
+  position: relative;
+  left: -50%;
   font-size:6vmin;
   font-weight:bold;
   font-style:oblique;
-  position:absolute;
-  z-index:1200;
-  color:white;
-  top:50px;
-  text-align:center;
-  width:100%;
-  font-variant:small-caps;
-  letter-spacing:1pt;
-  word-spacing:-10pt;
-  text-shadow:4px 4px 3px black;
-  background-color:rgba(5,5,5,.8);
+  color:black;
+  text-shadow:3px 3px 2px rgb(220,220,220);
+  background-color:rgba(200,200,200,0.6);
+  padding: 10px;
+  border-radius: 10px;
 }
 
 #nav {

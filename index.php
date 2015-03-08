@@ -84,10 +84,12 @@ mail($to,$subject,$emailBody,$headers);
             </div>
           </div>
         </div> 
-                      
       </div><!-- /.carousel-inner -->
-      <div class="logo">Honduras Children's Project</div> 
       
+      <div class="logo-wrapper">
+        <div class="logo">Honduras Children's Project</div> 
+      </div>
+
       <!-- Controls -->
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
