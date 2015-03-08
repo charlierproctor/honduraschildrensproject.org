@@ -208,28 +208,30 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
 <div class="divider"></div>
   
 <section class="bg-2">
-  <div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Upcoming Events</h2></div>
+  <div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Our Events</h2></div>
 </section>
   
 <div class="divider" id="events"></div>
    
 <div class="row">
   	<div class="col-sm-10 col-sm-offset-1">
-      <h1>Upcoming Events</h1>
+      <h1>Our Events</h1>
        
     <hr>    
-    <h3>East Rock Festival</h3>
-    <p class="lead"><em>Saturday, September 13, 2014 --- 11am-6pm</em><br>
-    We'll be selling handmade Honduran products, including our Trashy Products.
+    <h3>Spaghetti Dinner</h3>
+    <p class="lead"><em>May 2, 2015 -- 5-7pm</em><br>
+    <em>Church of the Holy Advent</em><br>
+    81 East Main Street<br>
+    Clinton, CT<br>
     </p>
     <hr>
     <h3>Durham Fair</h3>
-    <p class="lead"><em>September 25-28, 2014</em><br>
-    For the fourth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
+    <p class="lead"><em>September 24-27, 2015</em><br>
+    For the fifth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
     </p>
     <hr>
-    <h3>Third Annual Swing for Honduras Golf Tournament</h3>
-    <p class="lead"><em>Sunday, October 19, 2014 --- 1pm</em><br>
+    <h3>Fourth Annual Swing for Honduras Golf Tournament</h3>
+    <p class="lead"><em>Sunday, October 3, 2015</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
@@ -298,7 +300,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
           <div class="panel-thumbnail"><a href="#" title="Deborah D. Proctor, Treasurer"><img src="pics/team/deb.jpg" class="img-responsive"></a></div>
           <div class="panel-body">
             <p>Deborah D. Proctor, Treasurer</p>
-            <p>Member, Board of Direcors</p>
+            <p>Member, Board of Directors</p>
             
           </div>
         </div><!--/panel--> 
