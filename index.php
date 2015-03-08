@@ -102,6 +102,7 @@ mail($to,$subject,$emailBody,$headers);
   
 <!-- Fixed navbar -->
 <div class="wrapper">
+<div id="top"></div>
 <div class="navbar navbar-custom navbar-inverse navbar-static-top" id="nav">
     <div class="container">
       <div class="navbar-header">
@@ -444,7 +445,7 @@ All funds raised support our work in Honduras -- we are dedicated to improving t
 </div>
 
 <ul class="nav pull-right scroll-top">
-  <li><a href="#" title="Scroll to top"><i class="glyphicon glyphicon-chevron-up"></i></a></li>
+  <li><a href="#mission" title="Scroll to top"><i class="glyphicon glyphicon-chevron-up"></i></a></li>
 </ul>
 
 
@@ -508,16 +509,21 @@ $('#nav').affix({
 /* highlight the top nav as scrolling occurs */
 $('body').scrollspy({ target: '#nav' })
 
+/* scroll to a particular tag */
+function scrollTo(link){
+  var posi = $(link).offset().top;
+  $('body,html').animate({scrollTop:posi},700);
+}
+
 /* smooth scrolling for scroll to top */
 $('.scroll-top').click(function(){
-  $('body,html').animate({scrollTop:0},1000);
+  scrollTo("#top");
 })
 
 /* smooth scrolling for nav sections */
 $('#nav .navbar-nav li>a').click(function(){
   var link = $(this).attr('href');
-  var posi = $(link).offset().top;
-  $('body,html').animate({scrollTop:posi},700);
+  scrollTo(link);
 });
 
 
