@@ -1,16 +1,14 @@
 <?php
-if($name = $_POST['firstName']){
+if(isset($_POST['firstName'])){
 
-	
+	// used to alert for a new message... see js below.
 	$newEmail = true;
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$comments = $_POST['comments'];
-	
-	$emailBody = "Message From: " . $name . "\n";
-	$emailBody .= "EmailAddress: " . $email . "\n";
-	$emailBody .="Phone Number: " . $phone . "\n";
-	$emailBody .="Message: " . $comments . "\n";
+
+	// construct the email body
+	$emailBody = "Message From: " . $_POST['firstName'] . "\n";
+	$emailBody .= "EmailAddress: " . $_POST['email'] . "\n";
+	$emailBody .="Phone Number: " . $_POST['phone'] . "\n";
+	$emailBody .="Message: " . $_POST['comments'] . "\n";
 	$emailBody .="\n" ."~sent from www.honduraschildrensproject.org~";
 	
 	// set default timezone
