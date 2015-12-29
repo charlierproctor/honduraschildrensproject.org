@@ -12,7 +12,7 @@ if($name = $_POST['firstName']){
 	$emailBody .="\n" ."~sent from www.honduraschildrensproject.org~";
 	
 //email sent to davey
-$to = "david@honduraschildrensproject.org";	//davey's email		********
+$to = "charlie@honduraschildrensproject.org";	//davey's email		********
 $subject = "New Message From ~ " . $name;
 $headers = "From: info@honduraschildrensproject.org";	//from address
 
