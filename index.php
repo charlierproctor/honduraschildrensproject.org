@@ -47,7 +47,7 @@ if(isset($_POST['firstName'])){
 	$mail->addAddress('charlie@honduraschilrensproject.org', 'Charlie Proctor');
 
 	//Set the subject line
-	$mail->Subject = "New Message From ~ " . $name;
+	$mail->Subject = "New Message From ~ " . $_POST['firstName'];
 
 	// Set the message body
 	$mail->Body = $emailBody;
