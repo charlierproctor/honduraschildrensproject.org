@@ -1,0 +1,11 @@
+{
+    "name": "charlierproctor/honduraschildrensproject.org",
+    "description": "Honduras Children's Project website, www.honduraschildrensproject.org.",
+    "authors": [
+        {
+            "name": "Charlie Proctor",
+            "email": "charlie@charlieproctor.com"
+        }
+    ],
+    "require": {}
+}
