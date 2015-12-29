@@ -24,9 +24,6 @@ if($name = $_POST['firstName']){
 	//Tell PHPMailer to use SMTP
 	$mail->isSMTP();
 
-	//Enable SMTP debugging
-	$mail->SMTPDebug = 2;
-
 	//Set the hostname of the mail server
 	$mail->Host = 'smtp.gmail.com';
 
@@ -59,11 +56,10 @@ if($name = $_POST['firstName']){
 
 	//send the message, check for errors
 	if (!$mail->send()) {
-		echo "Mailer Error: " . $mail->ErrorInfo;
+		error_log("Mailer Error: " . $mail->ErrorInfo);
 	} else {
-		echo "Message sent!";
+		error_log("Message Sent");
 	}
-
 }
 
 ?>
