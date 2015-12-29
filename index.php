@@ -11,12 +11,57 @@ if($name = $_POST['firstName']){
 	$emailBody .="Message: " . $comments . "\n";
 	$emailBody .="\n" ."~sent from www.honduraschildrensproject.org~";
 	
-// send the email. 
-$to = "charlie@honduraschildrensproject.org";
-$subject = "New Message From ~ " . $name;
-$headers = "From: info@honduraschildrensproject.org";	//from address
+// set default timezone
+date_default_timezone_set('Etc/UTC');
 
-mail($to,$subject,$emailBody,$headers);
+require '../PHPMailerAutoload.php';
+
+//Create a new PHPMailer instance
+$mail = new PHPMailer;
+
+//Tell PHPMailer to use SMTP
+$mail->isSMTP();
+
+//Enable SMTP debugging
+$mail->SMTPDebug = 2;
+
+//Set the hostname of the mail server
+$mail->Host = 'smtp.gmail.com';
+
+//Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
+$mail->Port = 587;
+
+//Set the encryption system to use - ssl (deprecated) or tls
+$mail->SMTPSecure = 'tls';
+
+//Whether to use SMTP authentication
+$mail->SMTPAuth = true;
+
+//Username to use for SMTP authentication - use full email address for gmail
+$mail->Username = "charlie@honduraschildrensproject.org";
+
+//Password to use for SMTP authentication
+$mail->Password = "u*69ocp4#yv*O$%EZvX^Tt17XVJPv3";
+
+//Set who the message is to be sent from
+$mail->setFrom('info@honduraschildrensproject.org', "Honduras Children's Project");
+
+//Set who the message is to be sent to
+$mail->addAddress('charlie@honduraschilrensproject.org', 'Charlie Proctor');
+
+//Set the subject line
+$mail->Subject = "New Message From ~ " . $name;
+
+// Set the message body
+$mail->Body = $emailBody;
+
+//send the message, check for errors
+if (!$mail->send()) {
+	echo "Mailer Error: " . $mail->ErrorInfo;
+} else {
+	echo "Message sent!";
+}
+
 }
 
 ?>
