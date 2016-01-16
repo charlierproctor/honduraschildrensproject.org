@@ -96,6 +96,9 @@ h1 {
 h2 {
   font-size: 4vmin;
 }
+h3 {
+  font-weight: 700;
+}
 .logo-wrapper {
   position:absolute;
   top: 50px;

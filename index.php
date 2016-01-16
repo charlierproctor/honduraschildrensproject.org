@@ -256,20 +256,20 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <h1>Our Events</h1>
        
     <hr>    
-    <h3>Spaghetti Dinner</h3>
-    <p class="lead"><em>May 2, 2015 -- 5-7pm</em><br>
+    <h3>Sixth Annual Spaghetti Dinner</h3>
+    <p class="lead"><em>May 7, 2016 -- 5-7pm</em><br>
     <em>Church of the Holy Advent</em><br>
     81 East Main Street<br>
     Clinton, CT<br>
     </p>
     <hr>
     <h3>Durham Fair</h3>
-    <p class="lead"><em>September 24-27, 2015</em><br>
-    For the fifth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
+    <p class="lead"><em>September 22-25, 2016</em><br>
+    For the sixth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
     </p>
     <hr>
-    <h3>Fourth Annual Swing for Honduras Golf Tournament</h3>
-    <p class="lead"><em>Sunday, October 3, 2015</em><br>
+    <h3>Fifth Annual <em>Swing for Honduras</em> Golf Tournament</h3>
+    <p class="lead"><em>Sunday, October 2, 2016</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
@@ -310,21 +310,9 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Matt Erodici, Vice President"><img src="pics/team/matt.jpg"></a></div>
-          <div class="panel-body">
-            <p>Matt Erodici, Vice President</p>
-            <p>Member, Board of Directors</p>
-            
-          </div>
-        </div><!--/panel--> 
-      </div><!--/col-->
-      
-      <div class="col-sm-4 col-xs-6">
-      
-      	<div class="panel panel-default">
           <div class="panel-thumbnail"><a href="#" title="Charlie Proctor, Founder"><img src="pics/team/charlie.jpg"></a></div>
           <div class="panel-body">
-            <p>Charlie Proctor, Founder &amp Senior Consultant</p>
+            <p>Charlie Proctor, Founder</p>
             <p>Member, Board of Directors</p>
             
           </div>
@@ -345,20 +333,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
 
       </div><!--/col--> 
       
-      <div class="col-sm-4 col-xs-6">
-      
-      	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg"></a></div>
-          <div class="panel-body">
-            <p>Tristan Jamidar</p>
-            <p>Member, Board of Directors</p>
-            
-          </div>
-        </div><!--/panel--> 
-
-      </div><!--/col--> 
-
-      <div class="col-sm-4 col-xs-6">
+            <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
           <div class="panel-thumbnail"><a href="#" title="Marye Wagner"><img src="pics/team/marye.jpg"></a></div>
@@ -383,6 +358,42 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
         </div><!--/panel--> 
 
       </div><!--/col--> 
+
+      <div class="col-sm-4 col-xs-6">
+      
+      	<div class="panel panel-default">
+          <div class="panel-thumbnail"><a href="#" title="Charlene Weted"><img src="pics/logo.jpg"></a></div>
+          <div class="panel-body">
+	<p>Charlene Weted</p>
+	   <p>Member, Board of Directors</p>
+
+          </div>
+        </div><!--/panel--> 
+      </div><!--/col-->
+
+	<div class="col-sm-4 col-xs-6">
+      
+      	<div class="panel panel-default">
+          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg"></a></div>
+          <div class="panel-body">
+            <p>Tristan Jamidar</p>
+            <p>Member, Board of Directors</p>
+            
+          </div>
+        </div><!--/panel--> 
+
+      </div><!--/col--> 
+
+      <div class="col-sm-4 col-xs-6">
+      
+      	<div class="panel panel-default">
+          <div class="panel-thumbnail"><a href="#" title="Matt Erodici, Adviser"><img src="pics/team/matt.jpg"></a></div>
+          <div class="panel-body">
+            <p>Matt Erodici, Adviser</p>
+            
+          </div>
+        </div><!--/panel--> 
+      </div><!--/col-->
 
 	</div><!--/row-->
   </div><!--/container-->
