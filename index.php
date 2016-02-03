@@ -362,7 +362,7 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Charlene Weted"><img src="pics/logo.jpg"></a></div>
+          <div class="panel-thumbnail"><a href="#" title="Charlene Weted"><img src="pics/team/charlene.jpg"></a></div>
           <div class="panel-body">
 	<p>Charlene Weted</p>
 	   <p>Member, Board of Directors</p>
