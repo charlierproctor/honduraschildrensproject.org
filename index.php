@@ -346,19 +346,6 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
 
       </div><!--/col--> 
       
-        <div class="col-sm-4 col-xs-6">
-      
-        <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Julia Bishop-Hahlo"><img src="pics/team/julia.jpg"></a></div>
-          <div class="panel-body">
-            <p>Julia Bishop-Hahlo</p>
-            <p>Member, Board of Directors</p>
-            
-          </div>
-        </div><!--/panel--> 
-
-      </div><!--/col--> 
-
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
