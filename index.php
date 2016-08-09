@@ -181,7 +181,7 @@ if(isset($_POST['firstName'])){
 Honduras Children's Project is a non-profit organization dedicated to improving the education for the children of Copprome Orphanage in El Progreso, Honduras by providing them with an educational after-school program and by supporting the public elementary school they attend.
 </p>
     <p class="lead text-center"> 
-Honduras Children’s Project has hired a teacher and two teaching assistants to work with the children in the after-school program. We are paying for Oscar Sanchez, a Copprome graduate, to attend university and return to teach the children. We have brought school supplies, uniforms, and three laptop-computers to the orphanage, in addition to providing for the special-education assistance of 14 children. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome at least twice a year.
+Honduras Children’s Project has hired a teacher and two teaching assistants to work with the children in the after-school program. We are paying for Oscar Sanchez, a Copprome graduate, to attend university and are paying for a Copprome child to attend a bilingual private school. We have brought school supplies, uniforms, and three laptop-computers to the orphanage, in addition to providing for the special-education assistance of 14 children. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome at least twice a year.
 </p>
     <p class="lead text-center"> 
 Through several fundraising projects, we raise over $25,000 each year. We host Spaghetti and Chicken Dinners, sell chocolate-covered bacon at the Durham Fair, host an annual Golf Tournament (Swing for Honduras), and sell our “trashy products” and other hand-made Honduran products at local craft fairs and bazaars.    
@@ -231,8 +231,10 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
      <hr>
      
      <h3>Scholarships</h3>
+     Honduras Children's Project
      <ul>
-     <li>Honduras Children's Project is paying for Oscar Sanchez, a Copprome graduate, to attend a four-year public university: Universidad Autonoma de Honduras (UNAH).</li>
+     <li>is paying for Oscar Sanchez, a Copprome graduate, to attend a four-year public university: Universidad Autonoma de Honduras (UNAH).</li>
+    <li>is paying for a Copprome child to attend a bilingual private school.</li>
 </ul>
 
     <hr>
@@ -257,10 +259,9 @@ Through several fundraising projects, we raise over $25,000 each year. We host S
        
     <hr>    
     <h3>Sixth Annual Spaghetti Dinner</h3>
-    <p class="lead"><em>May 7, 2016 -- 5-7pm</em><br>
+    <p class="lead"><em>May 7, 2016</em><br>
     <em>Church of the Holy Advent</em><br>
-    81 East Main Street<br>
-    Clinton, CT<br>
+    Thanks to our supporters for making this event such a success!
     </p>
     <hr>
     <h3>Durham Fair</h3>
