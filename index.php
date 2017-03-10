@@ -184,7 +184,7 @@ Honduras Children's Project is a non-profit organization dedicated to improving 
 Honduras Children’s Project has hired a teacher and two teaching assistants to work with the children in the after-school program. We are paying for Oscar Sanchez, a Copprome graduate, to attend university and are paying for a Copprome child to attend a bilingual private school. We have brought school supplies, uniforms, and three laptop-computers to the orphanage, in addition to providing for the special-education assistance of 14 children. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome at least twice a year.
 </p>
     <p class="lead text-center"> 
-Through several fundraising projects, we raise over $25,000 each year. We host Spaghetti and Chicken Dinners, sell chocolate-covered bacon at the Durham Fair, host an annual Golf Tournament (Swing for Honduras), and sell our “trashy products” and other hand-made Honduran products at local craft fairs and bazaars.    
+Through several fundraising projects, we raise over $30,000 each year. We host an annual spaghetti dinner, sell chocolate-covered bacon at the Durham Fair and host an annual Golf Tournament (Swing for Honduras).    
     </p>
     <hr>
     
