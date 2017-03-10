@@ -44,7 +44,7 @@ if(isset($_POST['firstName'])){
 	$mail->setFrom('info@honduraschildrensproject.org', "Honduras Children's Project");
 
 	//Set who the message is to be sent to
-	$mail->addAddress('charlie@honduraschilrensproject.org', 'Charlie Proctor');
+	$mail->addAddress('charlie@honduraschildrensproject.org', 'Charlie Proctor');
 
 	//Set the subject line
 	$mail->Subject = "New Message From ~ " . $_POST['firstName'];
