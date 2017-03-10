@@ -155,7 +155,7 @@ if(isset($_POST['firstName'])){
           <span class="icon-bar"></span>
         </button>
       </div>
-      <div class="collapse navbar-collapse">
+      <div class="collapse navbar-collapse"> 
         <ul class="nav navbar-nav nav-justified">
           <li><a href="#mission">Mission</a></li>
           <li><a href="#projects">Projects</a></li>
