@@ -258,10 +258,10 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
       <h1>Our Events</h1>
        
     <hr>    
-    <h3>Sixth Annual Spaghetti Dinner</h3>
-    <p class="lead"><em>May 7, 2016</em><br>
-    <em>Church of the Holy Advent</em><br>
-    Thanks to our supporters for making this event such a success!
+    <h3>Seventh Annual Spaghetti Dinner</h3>
+    <p class="lead"><em>April 29, 2017</em><br>
+    <em>Church of the Holy Advent</em>
+hjgghkghk	    
     </p>
     <hr>
     <h3>Durham Fair</h3>
