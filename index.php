@@ -207,16 +207,10 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
       
       <hr>
      
-     <h3>After-School Program</h3>
-     Honduras Children's Project
+     <h3>Staff Members at Copprome</h3>
      <ul>
-    <li>has hired and is paying the salary of a professional teacher to work daily in the educational after-school program.</li>
-	<li>has hired and is paying the salaries of two teacher's assistants to work with the children at school and in the after-school program.</li>
-	<li>is providing for the special educational assistance of 14 Copprome children.</li>
-	<li>is paying for a Copprome graduate to attend university, so that he can return after graduation as a professional teacher to work with the children.</li>
-	<li>purchased and brought three laptop-computers for use by the children.</li>
-	<li>has purchased physical education uniforms for the kids.</li>
-	<li>has bought numerous school supplies and related materials for use by children at school and in the after-school program.</li>
+    <li>Two professional teachers to work daily in the educational after-school program, including one special education instructor.</li>
+	<li>Four teaching assistants to work with the children at school and in the after-school program.</li>
      </ul>
      
      <hr>
@@ -224,8 +218,8 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
      <h3>School Supplies</h3>
      Honduras Children's Project
      <ul>
+	<li>has bought numerous school supplies and related materials for use by children at school and in the after-school program.</li>
      <li>has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies.</li>
-     <li>is helping pay for the children's English instruction.</li>
      </ul>
      
      <hr>
@@ -233,7 +227,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
      <h3>Scholarships</h3>
      Honduras Children's Project
      <ul>
-     <li>is paying for Oscar Sanchez, a Copprome graduate, to attend a four-year public university: Universidad Autonoma de Honduras (UNAH).</li>
+     <li>is paying for two of our staff members to attend a nearby four-year public university.</li>
     <li>is paying for a Copprome child to attend a bilingual private school.</li>
 </ul>
 
