@@ -355,30 +355,6 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
         </div><!--/panel--> 
       </div><!--/col-->
 
-	<div class="col-sm-4 col-xs-6">
-      
-      	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Tristan Jamidar"><img src="pics/team/tristan.jpg"></a></div>
-          <div class="panel-body">
-            <p>Tristan Jamidar</p>
-            <p>Member, Board of Directors</p>
-            
-          </div>
-        </div><!--/panel--> 
-
-      </div><!--/col--> 
-
-      <div class="col-sm-4 col-xs-6">
-      
-      	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="#" title="Matt Erodici, Adviser"><img src="pics/team/matt.jpg"></a></div>
-          <div class="panel-body">
-            <p>Matt Erodici, Adviser</p>
-            
-          </div>
-        </div><!--/panel--> 
-      </div><!--/col-->
-
 	</div><!--/row-->
   </div><!--/container-->
 </div>
