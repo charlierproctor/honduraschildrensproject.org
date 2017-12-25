@@ -261,7 +261,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
     </p>
     <hr>
     <h3>Durham Fair</h3>
-    <p class="lead"><em>September 27-30, 2017</em><br>
+    <p class="lead"><em>September 27-30, 2018</em><br>
     For the eighth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
     </p>
     <hr>
