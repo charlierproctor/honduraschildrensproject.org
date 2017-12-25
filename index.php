@@ -120,7 +120,7 @@ if(isset($_POST['firstName'])){
           <img src="pics/carousel/oscar.jpg">
           <div class="container">
             <div class="carousel-caption">
-              <h2>and by sending Oscar Sanchez, a Copprome graduate, to university.</h2>
+              <h2>and by scholarships for students and staff to attend a nearby university.</h2>
               <p></p>
             </div>
           </div>
