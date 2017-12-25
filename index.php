@@ -203,14 +203,16 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
    
 <div class="row">
   	<div class="col-sm-10 col-sm-offset-1">
-      <h1>Projects</h1>
+      <h1>Our Work</h1>
       
       <hr>
      
      <h3>Staff Members at Copprome</h3>
+     Honduras Children's Project pays for the following staff members at Copprome Orphanage:
      <ul>
     <li>Two professional teachers to work daily in the educational after-school program, including one special education instructor.</li>
 	<li>Four teaching assistants to work with the children at school and in the after-school program.</li>
+    <li>One administrator to oversee the general operations. 
      </ul>
      
      <hr>
@@ -252,19 +254,19 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
       <h1>Our Events</h1>
        
     <hr>    
-    <h3>Seventh Annual Spaghetti Dinner</h3>
-    <p class="lead"><em>April 29, 2017</em><br>
+    <h3>Eighth Annual Spaghetti Dinner</h3>
+    <p class="lead"><em>TBD</em><br>
     <em>Church of the Holy Advent</em><br>
     81 East Main Street, Clinton, CT
     </p>
     <hr>
     <h3>Durham Fair</h3>
-    <p class="lead"><em>September 21-24, 2017</em><br>
-    For the seventh year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
+    <p class="lead"><em>September 27-30, 2017</em><br>
+    For the eighth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
     </p>
     <hr>
-    <h3>Sixth Annual <em>Swing for Honduras</em> Golf Tournament</h3>
-    <p class="lead"><em>Sunday, October 1, 2017</em><br>
+    <h3>Seventh Annual <em>Swing for Honduras</em> Golf Tournament</h3>
+    <p class="lead"><em>TBD</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
