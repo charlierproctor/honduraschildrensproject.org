@@ -174,7 +174,7 @@ if(isset($_POST['firstName'])){
 <div class="container">
   <div class="col-sm-10 col-sm-offset-1">
     <div class="page-header text-center">
-      <h1>Mission</h1>
+      <h1>Our Mission</h1>
     </div>
     
     <p class="lead text-center"> 
@@ -196,7 +196,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
 <div class="divider"></div>
   
 <section class="bg-1">
-  <div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Our Projects</h2></div>
+  <div class="col-sm-6 col-sm-offset-3 text-center"><h2 style="padding:20px;background-color:rgba(5,5,5,.8)">Our Work</h2></div>
 </section>
   
 <div class="divider" id="projects"></div>
