@@ -181,7 +181,7 @@ if(isset($_POST['firstName'])){
 Honduras Children's Project is a non-profit organization dedicated to improving the education for the children of Copprome Orphanage in El Progreso, Honduras by providing them with an educational after-school program and by supporting the public elementary school they attend.
 </p>
     <p class="lead text-center"> 
-Honduras Children's Project staff at Copprome Orphanage includes two teachers, five teaching assistants, and one administrator to work with the children in the after-school program. We are paying for two of our Copprome staff members to attend a nearby university. We sponsor one Copprome child to attend a bilingual private school and two teenagers to attend a trade school, and provide school supplies and uniforms to the children at the orphanage. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome three-four times a year.
+Honduras Children's Project staff at Copprome Orphanage includes two teachers, five teaching assistants, and one administrator to work with the children in our after-school program. We are paying for two of our Copprome staff members to attend a nearby university. We sponsor one Copprome child to attend a bilingual private school and two teenagers to attend a trade school. We provide school supplies and uniforms to the children at the orphanage. In support of Dr. Jose Angel Zuniga Huete School (the children's elementary school), Honduras Children's Project has purchased 40 desks, 20 fans, a color multifunctional printer, a whiteboard, and numerous school supplies. We maintain close ties with the children and our staff by visiting Copprome three-four times a year.
 </p>
     <p class="lead text-center"> 
 Through several fundraising projects, we raise over $35,000 each year. We host an annual spaghetti dinner, sell chocolate-covered bacon at the Durham Fair and host an annual Golf Tournament (Swing for Honduras).    
@@ -211,7 +211,7 @@ Through several fundraising projects, we raise over $35,000 each year. We host a
      Honduras Children's Project pays for the following staff members at Copprome Orphanage:
      <ul>
     <li>Two professional teachers to work daily in the educational after-school program, including one special education instructor.</li>
-	<li>Five teaching assistants to work with the children at school and in the after-school program.</li>
+	<li>Five teaching assistants to work with the children at school and in our after-school program.</li>
     <li>One administrator to oversee the general operations. 
      </ul>
      
