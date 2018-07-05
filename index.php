@@ -211,7 +211,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
      Honduras Children's Project pays for the following staff members at Copprome Orphanage:
      <ul>
     <li>Two professional teachers to work daily in the educational after-school program, including one special education instructor.</li>
-	<li>Four teaching assistants to work with the children at school and in the after-school program.</li>
+	<li>Five teaching assistants to work with the children at school and in the after-school program.</li>
     <li>One administrator to oversee the general operations. 
      </ul>
      
@@ -230,7 +230,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
      Honduras Children's Project
      <ul>
      <li>is paying for two of our staff members to attend a nearby four-year public university.</li>
-    <li>is paying for a Copprome child to attend a bilingual private school.</li>
+    <li>is paying for a Copprome child to attend a bilingual private school and two teenagers to attend a trade school.</li>
 </ul>
 
     <hr>
@@ -254,8 +254,8 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
       <h1>Our Events</h1>
        
     <hr>    
-    <h3>Eighth Annual Spaghetti Dinner</h3>
-    <p class="lead"><em>TBD</em><br>
+    <h3>Eighth Annual Spaghetti Dinner - Success!!!</h3>
+    <p class="lead"><em>April 28, 2018</em><br>
     <em>Church of the Holy Advent</em><br>
     81 East Main Street, Clinton, CT
     </p>
@@ -266,7 +266,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
     </p>
     <hr>
     <h3>Seventh Annual <em>Swing for Honduras</em> Golf Tournament</h3>
-    <p class="lead"><em>TBD</em><br>
+    <p class="lead"><em>October 7, 2018</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
@@ -382,7 +382,7 @@ Through several fundraising projects, we raise over $30,000 each year. We host a
       <p class="lead text-center">Make the check payable to <strong>Honduras Children's Project,</strong> and mail it to:</p>
               <div class="lead text-center">
                 Honduras Children's Project<br>                
-                602 Blue Hills Road<br>
+                414 Blue Hills Road<br>
                 Durham, CT 06422<br>
 </div>             
       <hr>
