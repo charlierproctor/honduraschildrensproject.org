@@ -210,7 +210,7 @@ Through several fundraising projects, we raise over $35,000 each year. We host a
      <h3>Staff Members at Copprome</h3>
      Honduras Children's Project pays for the following staff members at Copprome Orphanage:
      <ul>
-    <li>Two professional teachers to work daily in the educational after-school program, including one special education instructor.</li>
+    <li>Two professional teachers to work daily in our educational after-school program, including one special education instructor.</li>
 	<li>Five teaching assistants to work with the children at school and in our after-school program.</li>
     <li>One administrator to oversee the general operations. 
      </ul>
