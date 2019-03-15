@@ -254,19 +254,19 @@ Through several fundraising projects, we raise over $35,000 each year. We host a
       <h1>Our Events</h1>
        
     <hr>    
-    <h3>Eighth Annual Spaghetti Dinner - Success!!!</h3>
-    <p class="lead"><em>April 28, 2018</em><br>
+    <h3>Ninth Annual Spaghetti Dinner</h3>
+    <p class="lead"><em>April 27, 2019</em><br>
     <em>Church of the Holy Advent</em><br>
     81 East Main Street, Clinton, CT
     </p>
     <hr>
     <h3>Durham Fair</h3>
-    <p class="lead"><em>September 27-30, 2018</em><br>
-    For the eighth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
+    <p class="lead"><em>September 26-29, 2019</em><br>
+    For the ninth year, we'll be selling our signature chocolate-covered bacon at the Durham Lions booth.
     </p>
     <hr>
-    <h3>Seventh Annual <em>Swing for Honduras</em> Golf Tournament</h3>
-    <p class="lead"><em>October 7, 2018</em><br>
+    <h3>Eighth Annual <em>Swing for Honduras</em> Golf Tournament</h3>
+    <p class="lead"><em>October 6, 2019</em><br>
     <em>Indian Springs Golf Course, Middlefield, CT</em><br>
     A fun golf tournament for all ages and abilities.
     </p>
